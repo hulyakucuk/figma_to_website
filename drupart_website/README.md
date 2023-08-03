@@ -21,7 +21,7 @@ Visit on website => https://drupart-projects.vercel.app/
 
 Follow these steps to run the project locally:
 
-1. Clone the repository: https://github.com/hulyakucuk/drupart_projects.git
+1. Clone the repository: [https://github.com/hulyakucuk/drupart_projects.git](https://github.com/hulyakucuk/figma_to_website.git)
 
 
 2. Navigate to the project directory and open the index.html file in your web browser.
