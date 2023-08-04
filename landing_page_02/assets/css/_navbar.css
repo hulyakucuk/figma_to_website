@@ -1,0 +1,47 @@
+*{
+    font-family: 'Mulish';
+
+}
+
+.background-svg img {
+    margin: 0.4rem 0.3rem;
+    }
+
+.background-svg {
+    display: inline-block;
+    width: 41px; /* İstediğiniz genişliği ayarlayın */
+    height: 41px; /* İstediğiniz yüksekliği ayarlayın */
+    border-radius: 50%;
+    background-color: #DEEEFE;
+    flex-shrink: 2;
+}
+.navbar{
+    color: var(--1-f-1534-hyfen, #1F1534);;
+}
+
+.navbar .nav-link{
+    color: var(--1-f-1534-hyfen, #1F1534);
+    opacity: 0.7;
+    position: relative;
+}
+.navbar .nav-link:hover{
+    color: #2E4E92;
+    opacity: 1;
+    font-weight: 700;
+    /* border-bottom: 2px solid #2E4E92; */
+
+}
+.nav-link::after{
+    content: "";
+    position: absolute; 
+    transition: all 0.5s;
+    height: 2px;
+    width: 100%;
+    opacity: 0;
+    left: 0;
+    bottom: 0;
+    background-color: #2E4E92;
+}
+.nav-link:hover:after{
+    opacity: 1;
+}
