@@ -1,7 +1,8 @@
 ## Landing Page Website
 --------------------------------
 Responsive Website - Example Project
-
+FIGMA ==> figma.com/file/kNTIGiaEIeLkTUIIUYWLwy/LandingPage-(Community)?node-id=1%3A10&mode=dev
+Visit on Website ==> https://drupart-projects-hwxw.vercel.app/
 ## Description
 
 This project is an example of a responsive website built using HTML, CSS, and Bootstrap. It demonstrates the implementation of a mobile-friendly layout that adapts to different screen sizes and devices.
