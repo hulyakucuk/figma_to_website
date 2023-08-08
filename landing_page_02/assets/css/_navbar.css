@@ -1,16 +1,11 @@
-*{
-    font-family: 'Mulish';
-
-}
-
 .background-svg img {
     margin: 0.4rem 0.3rem;
     }
 
 .background-svg {
     display: inline-block;
-    width: 41px; /* İstediğiniz genişliği ayarlayın */
-    height: 41px; /* İstediğiniz yüksekliği ayarlayın */
+    width: 41px; 
+    height: 41px;
     border-radius: 50%;
     background-color: #DEEEFE;
     flex-shrink: 2;
@@ -28,8 +23,6 @@
     color: #2E4E92;
     opacity: 1;
     font-weight: 700;
-    /* border-bottom: 2px solid #2E4E92; */
-
 }
 .nav-link::after{
     content: "";

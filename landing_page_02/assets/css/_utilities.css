@@ -1,0 +1,12 @@
+.text-blue{
+    color: #2E4E92;
+}
+.text-white{
+    color: #fff;
+}
+.text-purple{
+    color: #462E6A;
+}
+.bg-blue{
+    background:linear-gradient( #6888C8, #5A98F2);
+}

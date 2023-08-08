@@ -3,3 +3,38 @@
     color: #93C1F9;
     letter-spacing: 0.38px;
 }
+.hero-btn{
+    border-radius: 55px;
+    background: #458FF6;
+    width: 200px;
+    height: 65.757px;
+    color: #fff;
+}
+.light-text{
+   color: #CCD2E9;
+   font-weight: 500;
+   line-height: 27px; 
+   letter-spacing: 0.38px;
+   font-size:19px;
+}
+.service-content {
+    height: 350px;
+    flex-shrink: 0;
+    border-radius: 20px;
+    box-shadow: 10px 40px 50px 0px rgba(229, 233, 246, 0.40);
+
+}
+.card-text{
+   color: #7D7987;
+}
+.section-btn{
+    background-color: #fff;
+    width: 200px;
+    height: 56px;
+    flex-shrink: 0;
+    border-radius: 55px;
+    font-weight: 700;
+    color: #458FF6;
+    font-size: 18px;
+    border: 1.4px solid #458FF6;
+}

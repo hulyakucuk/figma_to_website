@@ -1,0 +1,42 @@
+.container-item{
+    max-width: 1000px;
+    margin: auto;
+}
+.background{
+border-radius: 20px;
+height: 488px; 
+background-position: center; 
+background-repeat: no-repeat;
+background-size: cover; 
+}
+
+@media screen and (max-width: 992px) {
+    .container-item{
+        max-width: 800px;
+        margin: auto;
+
+    }
+
+    .carousel-item .info p{
+        margin: 0 10px;
+        font-size: 16px;
+        line-height: 2;
+        
+    }
+  }
+  
+  @media screen and (max-width: 600px) {
+    .container-item{
+        max-width: 400px;
+        margin: auto;
+        
+
+    }
+    .carousel-item .info p{
+        font-weight: 300;
+        margin: auto;
+        line-height: 0.9;
+        margin-bottom: 30px;
+        
+    }
+  }
