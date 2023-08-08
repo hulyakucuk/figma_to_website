@@ -1,7 +1,7 @@
 ## Landing Page Website
 --------------------------------
 Responsive Website - Example Project
-FIGMA ==> figma.com/file/kNTIGiaEIeLkTUIIUYWLwy/LandingPage-(Community)?node-id=1%3A10&mode=dev
+FIGMA ==> https://www.figma.com/community/file/994188174012697520
 Visit on Website ==> https://drupart-projects-hwxw.vercel.app/
 ## Description
 
